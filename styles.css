@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff00ff;
+    margin-top: 20px;
+}
+
+div ul {
+    list-style: none;
+    padding: 0;
+}
+
+div ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+div ul li a {
+    color: #00ffff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+div ul li a:hover {
+    color: #ff00ff;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #888;
+}
